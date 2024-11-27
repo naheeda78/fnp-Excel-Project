@@ -32,16 +32,16 @@ The analysis of hourly sales trends reveals that revenue peaks during:
 
 ### 4. Product Performance:
 
--The Magnam Set emerged as the highest revenue-generating product, followed by the Quia Gift and Harum Pack.
--Other notable performers include the Dolores Gift and Deserunt Box.
--Focusing on these products can boost sales and profitability.
+- The Magnam Set emerged as the highest revenue-generating product, followed by the Quia Gift and Harum Pack.
+- Other notable performers include the Dolores Gift and Deserunt Box.
+- Focusing on these products can boost sales and profitability.
 
 ### 4. Regional Analysis:
 
 The top cities by order volume include:
--Imphal: Leading the chart, suggesting a strong customer base.
--avali and Haridwar: Significant contributors to overall orders.
--Cities like Bilaspur and Dhanbad also showed consistent performance.
+- Imphal: Leading the chart, suggesting a strong customer base.
+- avali and Haridwar: Significant contributors to overall orders.
+- Cities like Bilaspur and Dhanbad also showed consistent performance.
 
 ## Recommendations:
 ### 1. Occasion and Seasonal Planning:
