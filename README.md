@@ -46,28 +46,28 @@ The top cities by order volume include:
 ## Recommendations:
 ### 1. Occasion and Seasonal Planning:
 
--Enhance promotions and campaigns during Anniversary, Valentine’s Day, and Diwali seasons to capitalize on high sales.
--Introduce targeted discounts or new product bundles for underperforming occasions like Raksha Bandhan and Holi.
+- Enhance promotions and campaigns during Anniversary, Valentine’s Day, and Diwali seasons to capitalize on high sales.
+- Introduce targeted discounts or new product bundles for underperforming occasions like Raksha Bandhan and Holi.
 
 ### 2. Product Strategy:
 
--Expand inventory for top-performing products such as Magnam Set and Quia Gift.
--Develop strategies to boost sales in underperforming categories like Mugs and Plants through improved marketing or product redesign.
+- Expand inventory for top-performing products such as Magnam Set and Quia Gift.
+- Develop strategies to boost sales in underperforming categories like Mugs and Plants through improved marketing or product redesign.
 
 ### 3. Regional Focus:
 
--Leverage the strong customer base in Imphal and Kavali with tailored offers and localized marketing campaigns.
--Explore growth opportunities in lower-performing cities through targeted advertising and engagement strategies.
+- Leverage the strong customer base in Imphal and Kavali with tailored offers and localized marketing campaigns.
+- Explore growth opportunities in lower-performing cities through targeted advertising and engagement strategies.
 
 ### 4. Operational Improvements:
 
--Analyze the factors contributing to the average delivery time of 5.53 days and identify ways to optimize logistics.
--Aim to reduce delivery times for improved customer satisfaction and retention.
+- Analyze the factors contributing to the average delivery time of 5.53 days and identify ways to optimize logistics.
+- Aim to reduce delivery times for improved customer satisfaction and retention.
 
 ### 5. Revenue Growth Strategies:
 
--Launch flash sales during peak hours (12 PM to 2 PM and 6 PM to 8 PM) to maximize hourly revenue.
--Implement loyalty programs to increase the average customer spend, which currently stands at ₹3,520.98.
+- Launch flash sales during peak hours (12 PM to 2 PM and 6 PM to 8 PM) to maximize hourly revenue.
+- Implement loyalty programs to increase the average customer spend, which currently stands at ₹3,520.98.
 
 ### Conclusion:
 This dashboard provides a holistic view of the sales performance, highlighting critical areas of success and opportunities for improvement. By leveraging the insights presented here, the business can optimize its marketing, product offerings, and operational strategies to achieve sustainable growth.
