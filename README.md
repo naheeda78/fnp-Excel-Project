@@ -14,14 +14,14 @@ The purpose of this project was to analyze sales data for insights into customer
 ### 2. Revenue Analysis:
 
  - By Occasion:
-Anniversary occasions generated the highest revenue, exceeding ₹7,00,000, followed by Valentine’s Day and Diwali.
-Raksha Bandhan and Holi occasions contributed moderate revenue, while Birthday sales lagged slightly.
+- Anniversary occasions generated the highest revenue, exceeding ₹7,00,000, followed by Valentine’s Day and Diwali.
+- Raksha Bandhan and Holi occasions contributed moderate revenue, while Birthday sales lagged slightly.
 - By Category:
-Colors (₹10,00,000+) and Soft Toys (₹7,00,000+) were the top-performing categories.
-Other categories such as Mugs and Plants had relatively low revenue contributions.
+- Colors (₹10,00,000+) and Soft Toys (₹7,00,000+) were the top-performing categories.
+- Other categories such as Mugs and Plants had relatively low revenue contributions.
 - By Month:
-Revenue peaked during February (likely due to Valentine’s Day) and August (coinciding with Raksha Bandhan and Independence Day celebrations).
-A noticeable decline was observed during April and September, indicating potential off-season periods.
+- Revenue peaked during February (likely due to Valentine’s Day) and August (coinciding with Raksha Bandhan and Independence Day celebrations).
+- A noticeable decline was observed during April and September, indicating potential off-season periods.
 
 ### 3. Time-Based Revenue Trends:
 
