@@ -26,9 +26,9 @@ A noticeable decline was observed during April and September, indicating potenti
 ### 3. Time-Based Revenue Trends:
 
 The analysis of hourly sales trends reveals that revenue peaks during:
--Lunch hours (12 PM - 2 PM)
--Evening hours (6 PM - 8 PM)
--Minimal sales activity occurred during early morning and late-night hours.
+- Lunch hours (12 PM - 2 PM)
+- Evening hours (6 PM - 8 PM)
+- Minimal sales activity occurred during early morning and late-night hours.
 
 ### 4. Product Performance:
 
