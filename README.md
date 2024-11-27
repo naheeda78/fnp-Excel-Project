@@ -6,10 +6,10 @@ The purpose of this project was to analyze sales data for insights into customer
 ## Insights:
 ### 1. Key Metrics:
 
--Total Orders: 1,000
--Total Revenue: ₹35,20,984.00
--Average Customer Spending: ₹3,520.98 per order
--Average Order-Delivery Time: 5.53 days
+- Total Orders: 1,000
+- Total Revenue: ₹35,20,984.00
+- Average Customer Spending: ₹3,520.98 per order
+- Average Order-Delivery Time: 5.53 days
 
 ### 2. Revenue Analysis:
 
